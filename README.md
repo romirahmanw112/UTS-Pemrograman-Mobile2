@@ -1,5 +1,7 @@
 # UTS-Pemrograman-Mobile2
 
+LINK GITBASH : https://github.com/Habibsuprayoga325/UrNote.git
+
 # UTS_Pemrograman Mobile
 ## APLIKASI UrNote
 | UTS  |  Pemrograman Mobile 2   |
